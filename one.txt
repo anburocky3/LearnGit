@@ -1,3 +1,0 @@
-This is one.txt in Two Branch
-Line 2
-Line 3 - (Branch 3)
